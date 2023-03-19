@@ -1,6 +1,11 @@
- ***7ème semaine :
+***7ème semaine :
 Exercice individuel sur les chaines de caractère sous forme de date et palindrome
  
 ***6ème semaine :
 Exercice individuel sur la récursivité
 
+***5ème semaine :
+Exercice individuel sur les chaines de caractères et les dictionnaires (Morse/Latin)
+
+***4ème semaine :
+Exercice individuel sur manipulation de git (add, commit, push projet pico 8)
