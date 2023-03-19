@@ -4,3 +4,6 @@ Exercice individuel sur les chaines de caractère sous forme de date et palindro
 ***6ème semaine :
 Exercice individuel sur la récursivité
 
+***5ème semaine :
+Exercice individuel sur les dictionnaires Morse/Latin
+
