@@ -1,7 +1,7 @@
-***7ème semaine :
+***6ème semaine :
 Exercice individuel sur les chaines de caractère sous forme de date et palindrome
  
-***6ème semaine :
+***5ème semaine :
 Exercice individuel sur la récursivité
 
 ***5ème semaine :
